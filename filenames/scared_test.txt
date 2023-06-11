@@ -1,0 +1,10 @@
+TEST/dataset_8/keyframe_2/Left_Image_Finalpass.png TEST/dataset_8/keyframe_2/Right_Image_Finalpass.png TEST/dataset_8/keyframe_2/left_disp_map.tiff
+TEST/dataset_8/keyframe_3/Left_Image_Finalpass.png TEST/dataset_8/keyframe_3/Right_Image_Finalpass.png TEST/dataset_8/keyframe_3/left_disp_map.tiff
+TEST/dataset_8/keyframe_4/Left_Image_Finalpass.png TEST/dataset_8/keyframe_4/Right_Image_Finalpass.png TEST/dataset_8/keyframe_4/left_disp_map.tiff
+TEST/dataset_8/keyframe_0/Left_Image_Finalpass.png TEST/dataset_8/keyframe_0/Right_Image_Finalpass.png TEST/dataset_8/keyframe_0/left_disp_map.tiff
+TEST/dataset_8/keyframe_1/Left_Image_Finalpass.png TEST/dataset_8/keyframe_1/Right_Image_Finalpass.png TEST/dataset_8/keyframe_1/left_disp_map.tiff
+TEST/dataset_9/keyframe_2/Left_Image_Finalpass.png TEST/dataset_9/keyframe_2/Right_Image_Finalpass.png TEST/dataset_9/keyframe_2/left_disp_map.tiff
+TEST/dataset_9/keyframe_3/Left_Image_Finalpass.png TEST/dataset_9/keyframe_3/Right_Image_Finalpass.png TEST/dataset_9/keyframe_3/left_disp_map.tiff
+TEST/dataset_9/keyframe_4/Left_Image_Finalpass.png TEST/dataset_9/keyframe_4/Right_Image_Finalpass.png TEST/dataset_9/keyframe_4/left_disp_map.tiff
+TEST/dataset_9/keyframe_0/Left_Image_Finalpass.png TEST/dataset_9/keyframe_0/Right_Image_Finalpass.png TEST/dataset_9/keyframe_0/left_disp_map.tiff
+TEST/dataset_9/keyframe_1/Left_Image_Finalpass.png TEST/dataset_9/keyframe_1/Right_Image_Finalpass.png TEST/dataset_9/keyframe_1/left_disp_map.tiff
